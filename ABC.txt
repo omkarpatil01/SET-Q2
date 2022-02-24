@@ -1,2 +1,2 @@
-This is ABC.txt File
-In Main 
+Modified Text file 
+in Branch 2
